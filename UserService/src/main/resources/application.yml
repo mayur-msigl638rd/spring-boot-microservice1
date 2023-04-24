@@ -7,8 +7,8 @@
    datasource:
     driver-class-name: com.mysql.cj.jdbc.Driver
     url: jdbc:mysql://localhost:3306/microservices
-    username: root
-    password: 5442213
+    username: your username
+    password: your password
        
       
    
